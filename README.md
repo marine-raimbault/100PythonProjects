@@ -2,9 +2,10 @@
 
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 # Page in development
+[Link to the Udemy Course](https://www.udemy.com/course/100-days-of-code/learn/lecture/18085723?start=15#overview)
 
 <h2>Description</h2>
-Using the 100 Days of Code Challend from [Dr Angela Yu] (https://www.udemy.com/course/100-days-of-code/learn/lecture/18085723?start=15#overview), I did 100 projects in Python (14 "Beginners", "Intermediate", "Advanced", "Professional"). This page describe my main takeaways.  
+Using the 100 Days of Code Challend from Dr Angela Yu, I did 100 projects in Python (14 "Beginners", "Intermediate", "Advanced", "Professional"). This page describe my main takeaways.  
 <br />
 
 <!-- you can go to https://imgur.com/ to upload your images and have a link here--->
