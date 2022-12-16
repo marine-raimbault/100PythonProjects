@@ -1,24 +1,26 @@
-# -Day18-Intermediate-Turtle-the-Graphical-User-Interface-GUI-
-<h1>JWipe - Disk Sanitization</h1>
+<h1>100 Projects in Python</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
+# Page in development
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Using the 100 Days of Code Challend from [Dr Angela Yu] (https://www.udemy.com/course/100-days-of-code/learn/lecture/18085723?start=15#overview), I did 100 projects in Python (14 "Beginners", "Intermediate", "Advanced", "Professional"). This page describe my main takeaways.  
 <br />
-<!you can go to https://imgur.com/ to upload your images and have a link here>
+
+<!-- you can go to https://imgur.com/ to upload your images and have a link here--->
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b>
+- <b>PyCharm, Jupyter Notebook, Google Colab</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
+<!--
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -47,6 +49,9 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+--!>
 
 <!--
  ```diff
