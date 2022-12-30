@@ -5,7 +5,7 @@
 [Link to the Udemy Course](https://www.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview)
 
 <h2>Description</h2>
-Using the 100 Days of Code Challend from Dr Angela Yu, I did 100 projects in Python (14 "Beginners", "Intermediate", "Advanced", "Professional"). This page describe my main takeaways.  
+Using the 100 Days of Code Challend from Dr Angela Yu, I am doing 100 projects in Python (14 "Beginners", "Intermediate", "Advanced", "Professional"). This page describe my main takeaways. (Page in development)  
 <br />
 
 <!-- you can go to https://imgur.com/ to upload your images and have a link here--->
